@@ -55,19 +55,19 @@ body {
   box-shadow: 3px 3px 0px #555;  
 }
 
-.btn--branco {
+.botao--branco {
     background-color: #fff;
     color: #000;
     font-size: 15px;
 }
 
-.btn--corrige {
+.botao--corrige {
     background-color: #F09046;
     color: #000;
     font-size: 15px;
 }
 
-.btn--confirma {
+.botao--confirma {
     background-color: #48C079;
     color: #FFF;
     font-size: 15px;
